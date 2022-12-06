@@ -11,7 +11,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
  *
  */
 public class BrowserUtils {
-
+//this is utilty class
     /**
      * waitFor method to poll page title
      *
